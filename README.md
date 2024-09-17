@@ -17,16 +17,11 @@
 
 # Installation
 
-- Clone the repository:
-- git clone https://github.com/rahilshah2003/workindia_assihnment.git
-- cd workindia_assignment
+- Clone the repository: git clone https://github.com/rahilshah2003/workindia_assihnment.git    cd workindia_assignment
 
-- Install dependencies:
-- npm install
+- Install dependencies: npm install
 
 
 # Running the Application
-- Start the server:
-
-- npm start
+- Start the server: npm start
 - The app will run on http://localhost:3000.
